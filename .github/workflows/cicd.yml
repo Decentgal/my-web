@@ -27,7 +27,7 @@ jobs:
           hostnamectl
 
 
-jobs:
+
   deploy-to-my-AWS-server-01:
     runs-on: ubuntu-latest
 
